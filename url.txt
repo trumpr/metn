@@ -1,1 +1,1 @@
- https://life-monte-least-outcome.trycloudflare.com
+cloudflared tunnel --url http://localhost:3000
